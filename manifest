@@ -1,0 +1,9 @@
+#appname:Gears
+#appid:com.peachpellen.platino
+#type:mobile
+#guid:bf50ebad-6f60-424a-9be6-4551ddb0ecf8
+#version:1.0
+#publisher:peachpellen
+#url:http://
+#image:appicon.png
+#desc:A simple Platino project showing spinning gears that can be started, stopped, sped up, slowed down and reversed.\n\nShows sprite loading, simple scene setup, angles, runtime listeners and touch functions.

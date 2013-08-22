@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "universal",
+	"iosSdkPath": "/Users/peachpellen/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/iphone",
+	"appGuid": "bf50ebad-6f60-424a-9be6-4551ddb0ecf8",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "4f7a5aea0fdecf48de62c23fa1a74397",
+	"nativeModulesHash": "acc4ac6f2e3cb0dfd53a84e93a58c17a",
+	"gitHash": "f7592c1",
+	"name": "Gears",
+	"id": "com.peachpellen.platino",
+	"analytics": true,
+	"publisher": "peachpellen",
+	"url": "http://",
+	"version": "1.0",
+	"description": "not specified",
+	"copyright": "2013 by peachpellen",
+	"guid": "bf50ebad-6f60-424a-9be6-4551ddb0ecf8",
+	"skipJSMinification": false,
+	"forceCopy": false,
+	"forceCopyAll": false
+}
